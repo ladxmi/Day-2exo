@@ -1,4 +1,22 @@
+* {
+    font-family: 'Raleway', sans-serif;
+}
+
 img {
     border-radius: 100%;
 }
 
+.tableau {
+    width: 100%;
+    border: 0;
+}
+
+.tableau thead th {
+    background-color: rgba(42, 165, 97, 0.349);
+    padding: 10px;
+}
+
+.tableau tbody tr td {
+    background-color: rgba(35, 105, 58, 0.226);
+    padding: 10px;
+}
